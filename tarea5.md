@@ -1,4 +1,27 @@
 # Tarea 5A
+
+Preguntas:
+
+1.-Error en salida, sin el using namespace std no corre el programa
+
+2.-Ningun error, salida: Hola Mundo.
+
+3.-Sin salida y error, ocupa mas espacio.
+
+4.-Error en salida, tiene caractéres de más.
+
+5.-Ningun error, salida: a = 8 b = 24
+
+6.-Ningun error, salida: 15
+
+7.-Ningun error, salida: a = 6 b = 6
+
+8.-Ningun error, salida: 1
+
+9.-Ningun error, salida: 0
+
+10.-Ningun error, salida: mo
+
 ## Hacer un programa que imprima alguna salida en la consola que dependa de:
  + *operaciones aritméticas.*
 - *operaciones lógicas.*
